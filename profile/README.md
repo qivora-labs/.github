@@ -4,11 +4,9 @@
 
   <h1>Qivora Labs</h1>
 
-  <p><strong>Software engineering, built with intent.</strong></p>
-
   <p>
-    Dhaka software studio building web apps, mobile apps, and custom systems —<br />
-    or a dedicated engineering pod in your repo. Senior attention from day one.
+    Qivora Labs is an autonomous software development studio and product foundry focused on building high-performance, edge-first SaaS products and localized workflow automation engines. We're building web apps, mobile apps, and custom systems —
+or a dedicated engineering pod in your repo. Senior attention from day one.
   </p>
 
   <p>
